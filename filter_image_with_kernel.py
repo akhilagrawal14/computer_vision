@@ -2,11 +2,6 @@ import cv2
 import numpy as np
 
 
-
-
-
-
-
 def get_filter(filter,custom_kernel=None):
     # sobel:gradient-based method that looks for strong changes in the 
     # first derivative of an image. mostly used for edge detection
