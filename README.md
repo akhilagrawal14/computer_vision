@@ -8,14 +8,14 @@ This Project is just to bush up by computer vision skills and to make a as compl
 2. calculate average brighness
 3. filter image by kernels
 4. get image info
+5. Histogram of gradients
+6. color distribution graph (in all main colours with nearby how much it is) and display histogram of all.
 
 up next:
 1. ORB , SIFT , rBRIEF , FASt
-2. Histogram of gradients
-3. Corner detection
-4. color distribution graph (in all main colours with nearby how much it is) and display histogram of all.
-5. black line detection like line horizontal, vertically
-6. from grayscale distribution of lines(of blackness) horizontally and vertically
+2. Corner detection
+3. black line detection like line horizontal, vertically
+4. from grayscale distribution of lines(of blackness) horizontally and vertically.Like projection of distribution on c and y axis useful for character recogntion.
 
 
 
