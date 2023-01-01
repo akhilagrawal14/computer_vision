@@ -10,6 +10,8 @@ This Project is just to bush up by computer vision skills and to make a as compl
 4. get image info
 5. Histogram of gradients
 6. color distribution graph (in all main colours with nearby how much it is) and display histogram of all.
+7. basic operation : flipping, rotate (like 90 degree,180,270), crop , write text in image , draw rectangle , draw polygon , paste method to one image top of other
+8. thresholding of grayscale image. (default OTSU, can give it too)
 
 up next:
 1. ORB , SIFT , rBRIEF , FASt
@@ -17,9 +19,8 @@ up next:
 3. black line detection like line horizontal, vertically
 4. from grayscale distribution of lines(of blackness) horizontally and vertically.Like projection of distribution on c and y axis useful for character recogntion.
 5. Histogram equalization
-6. thresholding of grayscale image. (default OTSU, can give it too)
-7. Animation detection
-8. basic operation : flipping, rotate (like 90 degree,180,270), crop , write text in image , draw rectangle , draw polygon , paste method to one image top of other
+6. Animation detection
+
 
 
 ## deep learning projects
